@@ -1,0 +1,180 @@
+{
+    "Use cases contain all the information needed to build one part of a process model.": [
+        "False",
+        "True"
+    ],
+    "Models that describe processes, without suggesting how they are conducted.": [
+        "Logical process models",
+        "Physical models",
+        "Physical process models",
+        "Design models",
+        "None of these"
+    ],
+    "Iteration is the cornerstone of good DFD design.": [
+        "True",
+        "False"
+    ],
+    "Every external entity has a name and a description.": [
+        "True",
+        "False"
+    ],
+    "It is important to ensure that the level 0 and level 1 DFDs are balanced.": [
+        "True",
+        "False"
+    ],
+    "All data stores must have at least one input data flow.": [
+        "True",
+        "False"
+    ],
+    "A collection of data that is stored in some way (which is determined later when creating the physical model).": [
+        "Data store",
+        "Data flow",
+        "Data file",
+        "Database",
+        "None of these"
+    ],
+    "We use data flow diagrams (DFDs) to describe the to-be system's interactions with its environment, processes, flows of data, and data stores.": [
+        "True",
+        "False"
+    ],
+    "This type of English uses short sentences to describe the work that a process performs.": [
+        "Structured",
+        "Process",
+        "Minimal",
+        "Simplified",
+        "If-then-else"
+    ],
+    "Processes must be computerized.": [
+        "False",
+        "True"
+    ],
+    "In general, syntax errors are easier to find and fix than are semantics errors.": [
+        "True",
+        "False"
+    ],
+    "Below the top-level DFD in the DFD hierarchy is the diagram called the what?": [
+        "Level-0 DFD",
+        "Major DFD",
+        "Balancer",
+        "Level-1 DFD",
+        "Main DFD"
+    ],
+    "A bundle is an activity or a function that is performed for some specific business reason.": [
+        "False",
+        "True"
+    ],
+    "The processes in the level 1 diagram are the _____ of the _____ process in the level 0 diagram.": [
+        "Children, Parent",
+        "Parent, Children",
+        "Balancers, Main",
+        "Followers, Leaders",
+        "Leaders, Followers"
+    ],
+    "A single fact, such as Order ID (sometimes called a data element), or a logical collection of several facts (e.g., new shop work order).": [
+        "Data flow",
+        "Data store",
+        "Database",
+        "Data file",
+        "None of these"
+    ],
+    "Process descriptions provide additional information that the DFD does not provide.": [
+        "True",
+        "False"
+    ],
+    "Data flows going into a data store indicate that there is a logical error.": [
+        "False",
+        "True"
+    ],
+    "These display decision logic (IF statements) as a set of nodes (questions) and branches (answers).": [
+        "Decision trees",
+        "Logic diagrams",
+        "Decision diagrams",
+        "If-then-else diagrams",
+        "Process diagrams"
+    ],
+    "The context diagram shows the entire system in context with its environment.": [
+        "True",
+        "False"
+    ],
+    "Most business processes can be explained in one DFD.": [
+        "False",
+        "True"
+    ],
+    "The context diagram defines how the business process or computer system interacts with its Environment.": [
+        "True",
+        "False"
+    ],
+    "Data flows coming out of a data store indicate that information is retrieved from the data store.": [
+        "True",
+        "False"
+    ],
+    "These represent complex policy decisions as rules that link various conditions with actions.": [
+        "Decision tables",
+        "Decision diagrams",
+        "Branching tables",
+        "Process diagrams",
+        "If-then-else diagrams"
+    ],
+    "Project teams usually draw process models by hand.": [
+        "False",
+        "True"
+    ],
+    "An external entity is a person, organization, organization unit, or system that is external to the system and never interacts with it.": [
+        "False",
+        "True"
+    ],
+    "Use cases are the same as process diagrams.": [
+        "False",
+        "True"
+    ],
+    "The set of children and the parent are identical; they are simply different ways of looking at the same thing.": [
+        "True",
+        "False"
+    ],
+    "Synchronizing means ensuring that all information presented in a DFD at one level is accurately represented in the next-level": [
+        "False",
+        "True"
+    ],
+    "Process models have just recently become a part of structured systems analysis and design techniques.": [
+        "False",
+        "True"
+    ],
+    "The top-level DFD in every business process model, whether a manual system or a computerized system, is the what?": [
+        "Context diagram",
+        "Main DFD",
+        "Driver",
+        "Level-0 DFD",
+        "Major DFD"
+    ],
+    "There are no formal rules covering the layout of processes, data flows, data stores, and external entities within a DFD.": [
+        "True",
+        "False"
+    ],
+    "Models which provide information that is needed to ultimately build the system.": [
+        "Physical models",
+        "Logical process models",
+        "Physical process models",
+        "Design models",
+        "None of these"
+    ],
+    "The next level under level 1 would be labeled as level 2.": [
+        "True",
+        "False"
+    ],
+    "Experienced analysts usually draw a DFD perfectly the first time.": [
+        "False",
+        "True"
+    ],
+    "Semantics errors cause the fewest problems in system development.": [
+        "False",
+        "True"
+    ],
+    "There are two fundamentally different types of problems that can occur in DFDs: syntax errors and English errors.": [
+        "False",
+        "True"
+    ],
+    "Process models rarely have level 1 diagrams.": [
+        "False",
+        "True"
+    ]
+}
