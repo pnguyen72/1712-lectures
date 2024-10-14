@@ -1,0 +1,368 @@
+{
+    "Information in the data dictionary is called what?": [
+        "Metadata",
+        "Cached information",
+        "Compiled data",
+        "Data repository",
+        "File silo"
+    ],
+    "Which would NOT likely be an entity on a car insurance ERD?": [
+        "Zip code",
+        "Customer",
+        "Policy",
+        "Agent",
+        "Car"
+    ],
+    "In an entity called STUDENT, you might find attributes of Student-ID, Last-Name, First-Name and cell-phone.": [
+        "True",
+        "False"
+    ],
+    "Data models can be either logical or physical.": [
+        "True",
+        "False"
+    ],
+    "A(n) _____ entity cannot exist without the presence of another entity or has an identifier that is based on another entity's attribute.": [
+        "dependent",
+        "independent",
+        "incomplete",
+        "variable",
+        "non-complying"
+    ],
+    "With an ERD, special symbols are added to show high-level business rules.": [
+        "True",
+        "False"
+    ],
+    "Andrew, an analyst for PaxMedia Inc., has just learned that the business rules for a system he has been working on have changed. This means wjat": [
+        "The ERD components will have to be changed",
+        "Nothing \u2013 once the ERD data models have been drawn, they are 'frozen' for the system",
+        "Andrew will be reassigned to a different project that is in its beginning stages",
+        "The ERD data model will have to be put on hold while new DFD diagrams are created",
+        "The project will have to be scrapped and restarted"
+    ],
+    "The three steps in creating an ERD are: (1) identify the entities; (2) identify the processes; (3) identify the relationships": [
+        "False",
+        "True"
+    ],
+    "An entity is described by an action verb.": [
+        "False",
+        "True"
+    ],
+    "During the analysis phase logical data models are created.": [
+        "True",
+        "False"
+    ],
+    "With an ERD, lines are drawn to show relationships among the data.": [
+        "True",
+        "False"
+    ],
+    "An illustration of the transformation of data into business value is an ERD.": [
+        "False",
+        "True"
+    ],
+    "Entities are a person, place, or thing.": [
+        "True",
+        "False"
+    ],
+    "Entities are further designed with attributes.": [
+        "True",
+        "False"
+    ],
+    "One of the first places to start developing Entity Relationship Diagrams is by looking at the level 0 process models (DFD) and the use cases for data flows and data stores.": [
+        "True",
+        "False"
+    ],
+    "A data model can do what?": [
+        "Be used as a logical data model in analysis and as a physical data model in design",
+        "Illustrate return-on-investment, break-even point, and economic feasibility",
+        "Represent actions or processes that occur in the to-be system",
+        "Only be used in BPR situations",
+        "Only be used with JAD sessions"
+    ],
+    "On an ERD, data elements are grouped in a hierarchical structure that is uniquely identified by number.": [
+        "False",
+        "True"
+    ],
+    "Balance occurs between DFDs and ERDs when the data stores _____": [
+        "Can be equated to entities on the ERD and when entities are referred to by data stores on the DFD",
+        "Are uniquely named",
+        "Have only one input and one output flow",
+        "Are named the same as the relationships on the ERD",
+        "Can be compared to ERD data flows and attributes on the ERD are included in data stores on the DFD"
+    ],
+    "A graphical illustration that shows the information that is created, stored, and used by a business system would be an ERD.": [
+        "True",
+        "False"
+    ],
+    "ERDs and DFDs are two techniques for process modeling.": [
+        "False",
+        "True"
+    ],
+    "With an ERD, similar kinds of information are listed together in entities.": [
+        "True",
+        "False"
+    ],
+    "ERDs are drawn in several levels: Context ERD diagrams; Level 0 ERD diagrams; Level 1 ERD diagrams.": [
+        "False",
+        "True"
+    ],
+    "Which would likely be an entity on a car insurance ERD?": [
+        "Car",
+        "date",
+        "Gender",
+        "company",
+        "fire district"
+    ],
+    "Entity Relationship Diagrams show relationships between entities that are what?": [
+        "In line with the business rules and processing",
+        "Outputs from JAD sessions",
+        "Consistent with the ACM guidelines",
+        "Defined by the project sponsor",
+        "Extensions of the process models"
+    ],
+    "With an ERD, the diagrams are drawn in a sequential order \u2013 from top to bottom.": [
+        "False",
+        "True"
+    ],
+    "On an ERD, data elements are listed together and place inside boxes called entities.": [
+        "True",
+        "False"
+    ],
+    "What type of process is creating an ERD?": [
+        "Iterative process",
+        "Well defined process",
+        "Sequential process",
+        "Process defined by five steps",
+        "User defined process"
+    ],
+    "In creating ERD's, which would most likely NOT be a source for entities?": [
+        "Cost / benefit reports",
+        "Use cases",
+        "Level 0 DFD diagrams",
+        "External entities",
+        "Data flows"
+    ],
+    "An analyst can read an ERD to discover the individual pieces of information in a system and how they are organized and related to each other.": [
+        "True",
+        "False"
+    ],
+    "On an ERD, processes are listed alphabetically with relationship connections drawn between processes.": [
+        "False",
+        "True"
+    ],
+    "Lines on an ERD diagram indicate what?": [
+        "Relationships among the data",
+        "Hierarchies between processes",
+        "Plurality of data items",
+        "Uniqueness of data items",
+        "Primary keys"
+    ],
+    "Relationships are some type of information that is captured about entities.": [
+        "False",
+        "True"
+    ],
+    "What is true about creating an entity relationship diagram?": [
+        "It is an iterative process",
+        "There will be at most seven entities",
+        "There will be at most seven relationships",
+        "If you identify more than seven entities, analyze and combine until you have seven or less",
+        "Entities will have at most seven attributes"
+    ],
+    "Data modeling is an iterative process.": [
+        "True",
+        "False"
+    ],
+    "On an ERD, data elements are described as singular (1:1); plurals (1:N); or didactic (M:N).": [
+        "False",
+        "True"
+    ],
+    "CRUD stands for create, read, update and delete and can be used to verify DFDs and ERDs.": [
+        "True",
+        "False"
+    ],
+    "The three steps in creating an ERD are: (1) identify the entities; (2) identify the attributes; (3) identify the relationships": [
+        "True",
+        "False"
+    ],
+    "In defining LAST-NAME in the data dictionary, we might describe it as a character field having from 1 to 15 alphabetic characters.": [
+        "False",
+        "True"
+    ],
+    "ERD's are data modeling techniques.": [
+        "True",
+        "False"
+    ],
+    "Relationships are drawn with lines showing cardinality and plurality.": [
+        "False",
+        "True"
+    ],
+    "The lines that connect the entities are referred to as": [
+        "relationships",
+        "Data flows",
+        "connectors",
+        "crow's feet",
+        "foreign key"
+    ],
+    "The three major parts of an ERD diagram are what?": [
+        "Relationship, attribute, entity",
+        "Process, data flow, data store",
+        "Attribute, modularity, cardinality",
+        "Relationship, data flow, entity",
+        "Process, entity and relationship"
+    ],
+    "An entity is the basic building block for a data model.": [
+        "True",
+        "False"
+    ],
+    "On an ERD, data elements are listed alphabetically with a cross listing to the processes that manipulate them.": [
+        "False",
+        "True"
+    ],
+    "One of the most commonly used techniques for data modeling is ERDs.": [
+        "True",
+        "False"
+    ],
+    "An entity is which of the following?": [
+        "Is a person, place or thing",
+        "Is the association between two related processes",
+        "Has cardinality (1:1, 1:N, or M:N)",
+        "Shows if it can be null or no null",
+        "Is described with a verb phrase"
+    ],
+    "Anthony is working on the cardinality of doctors and patients in a large urban hospital. With the large number of doctors with varying specialties and patients that may have more than one aliment, he thinks the relationship might be noted as what?": [
+        "Many to many",
+        "1 to 1",
+        "1 to 2",
+        "1 to many",
+        "Many to 1"
+    ],
+    "ERDs and DFDs are two techniques for data modeling.": [
+        "False",
+        "True"
+    ],
+    "Omar has a model with 85 entities. He can do which of the following?": [
+        "Group these into related subject areas",
+        "Compress these into at most seven entity grouping units",
+        "Stop \u2013 he has all entities defined",
+        "Sort the entities alphabetically",
+        "Co-validate the entities with the level 2 DFD diagrams"
+    ],
+    "An ERD is a picture that shows how data and information is processed and transformed by a business system.": [
+        "False",
+        "True"
+    ],
+    "An ERD is a picture which shows the information that is ________ by a business system.": [
+        "all of these",
+        "created",
+        "stored",
+        "used"
+    ],
+    "The last step in creating basic ERD's is to:": [
+        "Identify relationships",
+        "Define attributes and assign identifiers",
+        "Recognize entities",
+        "Test them with users",
+        "Compile them with Java"
+    ],
+    "Metadata is data about data.": [
+        "True",
+        "False"
+    ],
+    "During the analysis phase, analysts create programming models to represent how the business system will operate.": [
+        "False",
+        "True"
+    ],
+    "You have entities of ITEM, SOLD-ITEM, SALE and PAYMENT. Which most likely is NOT a relationship?": [
+        "PAYMENT pays for ITEM",
+        "PAYMENT pays for SALE",
+        "SALE is paid by PAYMENT",
+        "ITEM is included in SOLD-ITEM",
+        "SALE involves SOLD-ITEM"
+    ],
+    "ERDs can be quite complex and might have hundreds or thousands of entities.": [
+        "True",
+        "False"
+    ],
+    "A data model is a formal way of representing the data that are used and created by a business system.": [
+        "True",
+        "False"
+    ],
+    "In adding attributes to an ERD, which of the following might NOT be a good resource for attributes?": [
+        "The system proposal document",
+        "From the CASE tool",
+        "Data flows from DFDs",
+        "Requirements documents",
+        "Through interviews (what users need for reports and processing)"
+    ],
+    "An entity relationship diagram (ERD):": [
+        "Is a picture that shows the information that is created, stored, and used by a business system",
+        "Is a use-case diagram enhanced graphically to show data and process modeling",
+        "Is a high-level CASE diagram of data modeling used in business systems",
+        "Is an illustration of external data flows to and from a business systems",
+        "Is a graphical display of the processes in a business system"
+    ],
+    "Independent entities are what?": [
+        "When an entity can exist without the help of another entity",
+        "When a child requires attributes from the parent",
+        "When there is only one entity for a data process model",
+        "Where the entity identifier is also the primary key",
+        "When an entity comes from an external source (aka 'external entity')"
+    ],
+    "In defining the data characteristics of Universal Product Codes, we might describe them as twelve characters made up of digits \u2013 numeric only.": [
+        "True",
+        "False"
+    ],
+    "A(n) _____ entity is an entity with an identifier that describes only the entity.": [
+        "independent",
+        "dependent",
+        "incomplete",
+        "intersection",
+        "non-identifying"
+    ],
+    "In an entity called STUDENT, you might find attributes of PROFESSOR-ID, Last-Name, First-Name and CLASSROOM.": [
+        "False",
+        "True"
+    ],
+    "A data model is a what?": [
+        "A formal way of representing the data that are used and created by a business system",
+        "The mathematical model of formulas and logic used in a system",
+        "The abstract creating of an ideal system transformation",
+        "The model that is produced by extreme programming",
+        "The expanded, thoroughly balanced and normalized use case for a system"
+    ],
+    "Modality refers to which of the following?": [
+        "Whether and entity can exist with or without a related instance in the related entity",
+        "Relationships of one-to-one; one-to-many; or many-to-many",
+        "The hierarchical structure that was developed in process models applied to data models",
+        "The number of attributes generated by an entity",
+        "Whether the entity has a unique identifier (aka 'primary key') or a concatenated identifier (aka 'composite key')"
+    ],
+    "The first step to building an Entity Relationship Diagram is to do what?": [
+        "identify the entities",
+        "Identify data flows from the level 0 DFD diagram",
+        "draw the relationships between the entities",
+        "identify the attributes for each entity",
+        "identify the processes, data flows and data stores"
+    ],
+    "Jack is developing an ERD for a small dental practice office patient record system. The dental practice has three dentists, six hygienists, and many patients. A patient is always assigned to the same dentist for all appointments. In particular, he is working on the relationship between dentists and patients. Should it be which of the following?": [
+        "1 to many with a modality of not null",
+        "1 to 1, with a modality of null",
+        "Many to many with a modality of null",
+        "Many to many with a modality of not null",
+        "1 to many with a modality of null"
+    ],
+    "On an ERD, similar kinds of information are listed together and placed inside boxes called data containers.": [
+        "False",
+        "True"
+    ],
+    "Relationships are associations between entities.": [
+        "True",
+        "False"
+    ],
+    "Which would NOT likely be an attribute of an entity called \"Student\"?": [
+        "Class room number",
+        "Age",
+        "Student identification number",
+        "Home phone",
+        "Gender"
+    ]
+}
