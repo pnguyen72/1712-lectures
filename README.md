@@ -1,21 +1,9 @@
-# Study resources for COMP 1712
+# COMP 1712 Study Resources
 
-In each folder are
+Included in this repo are
 
-- Lecture slides
-- Chapter summary
-- Practice quiz questions and answers.
+- lecture slides
+- chapter summaries
+- practice quizzes questions and answers.
 
-I also include the raw data of each practice quiz, called `quiz-data.json`. They are in the format of
-
-```json
-{
-    "question 1": ["choice 1", "choice 2"],
-    "question 2": ["choice 1", "choice 2"]
-}
-```
-
-where the first choice is the correct answer.
-You may find these useful for scripting
-(e.g. giving yourself a real quiz instead of reading a list of questions).
-I plan to also eventually upload these scripts, but I don't have time yet; for now, write them yourself.
+If you prefer taking a real quiz to reading a list of questions, checkout this [practice quiz web app](https://github.com/pnguyen72/1712-quiz). It's like the one on Learning Hub, but better.
